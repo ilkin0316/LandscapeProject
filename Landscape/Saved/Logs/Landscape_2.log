@@ -2739,3 +2739,764 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.10.12-20.41.27:510][842]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
 [2024.10.12-20.41.27:610][842]LogD3D12RHI: Warning: Waited for PSO creation for 200.000000ms
 [2024.10.12-20.41.56:015][889]LogDerivedDataCache: C:/Users/bilis/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:44.166 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 23311 files in 25439 folders with total size 3377 MiB.
+[2024.10.12-20.43.02:660][436]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.43.02:660][436]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.43.02:662][436]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_0
+[2024.10.12-20.43.02:663][436]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_0
+[2024.10.12-20.43.02:668][436]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.10.12-20.43.03:639][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.43.03:639][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.43.03:642][481]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_UAID_B025AA636E35202502_2126730262
+[2024.10.12-20.43.03:648][481]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_UAID_B025AA636E35202502_2126730262
+[2024.10.12-20.43.09:458][812]LogViewport: Scene viewport resized to 641x428, mode Windowed.
+[2024.10.12-20.43.09:486][812]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.12-20.43.09:486][812]LogViewport: Scene viewport resized to 640x428, mode Windowed.
+[2024.10.12-20.43.09:840][812]LogViewport: Scene viewport resized to 640x429, mode Windowed.
+[2024.10.12-20.43.10:275][812]LogViewport: Scene viewport resized to 1123x752, mode Windowed.
+[2024.10.12-20.43.11:017][813]LogViewport: Scene viewport resized to 641x429, mode Windowed.
+[2024.10.12-20.43.22:964][441]LogViewport: Scene viewport resized to 867x580, mode Windowed.
+[2024.10.12-20.43.23:043][442]LogViewport: Scene viewport resized to 1262x846, mode Windowed.
+[2024.10.12-20.43.23:116][443]LogViewport: Scene viewport resized to 1286x862, mode Windowed.
+[2024.10.12-20.43.25:529][584]LogPCG: Warning: [BP_PCG_Fence_C_UAID_B025AA636E35202502_2126730262 - StaticMeshSpawner_2]: Trivially invalid mesh path used: ''
+[2024.10.12-20.43.32:226][800]LogShaderCompilers: Display: ================================================
+[2024.10.12-20.43.32:226][800]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Total job queries 580, among them cache hits 114 (19.66%)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Tracking 453 distinct input hashes that result in 412 distinct outputs (90.95%)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: RAM used: 13,58 MiB of 1,60 GiB budget. Usage: 0.83%
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Shaders Compiled: 16
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Jobs assigned 23, completed 16 (69.57%)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Average time worker was idle: 139.59 s
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.67 s
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Job execution time: average 0.44 s, max 0.59 s
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Job life time (pending + execution): average 0.66 s, max 0.88
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Shader code size: average 34,608 KiB, min 29,656 KiB, max 42,973 KiB
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.44 s
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Jobs were issued in 23 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Average processing rate: 11.10 jobs/sec
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Total thread time: 3,349 s
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Total thread preprocess time: 0,363 s
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Percentage time preprocessing: 10.84%
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Effective parallelization: 2.32 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.27 sec, max 0.28 sec, min 0.26 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.25 sec, max 0.26 sec, min 0.25 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.23 sec, max 0.25 sec, min 0.21 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.11% of total time (compiled    2 times, average 0.27 sec, max 0.28 sec, min 0.26 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.21% of total time (compiled    2 times, average 0.25 sec, max 0.26 sec, min 0.25 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:                                                 FLumenCardVS - 13.59% of total time (compiled    2 times, average 0.23 sec, max 0.25 sec, min 0.21 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:              TShadowDepthPSPixelShadowDepth_VirtualShadowMap - 9.10% of total time (compiled    2 times, average 0.15 sec, max 0.17 sec, min 0.13 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 7.61% of total time (compiled    1 times, average 0.25 sec, max 0.25 sec, min 0.25 sec)
+[2024.10.12-20.43.32:227][800]LogShaderCompilers: Display: ================================================
+[2024.10.12-20.43.44:618][514]Cmd: TRANSACTION UNDO
+[2024.10.12-20.43.44:618][514]LogEditorTransaction: Undo Move Elements
+[2024.10.12-20.43.57:867][274]Cmd: TRANSACTION UNDO
+[2024.10.12-20.43.57:867][274]LogEditorTransaction: Undo Move Elements
+[2024.10.12-20.44.06:863][782]Cmd: DELETE
+[2024.10.12-20.44.06:864][782]Cmd: ACTOR DELETE
+[2024.10.12-20.44.06:929][782]LogEditorActor: Deleted Actor: BP_PCG_Fence_C
+[2024.10.12-20.44.06:998][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.10.12-20.44.07:004][782]LogEditorActor: Deleted 1 Actors (0.137 secs)
+[2024.10.12-20.44.11:402][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.44.11:402][ 35]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.44.11:404][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_1
+[2024.10.12-20.44.11:405][ 35]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_1
+[2024.10.12-20.44.12:123][ 77]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.44.12:123][ 77]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C
+[2024.10.12-20.44.12:127][ 77]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_UAID_B025AA636E35212502_1121472440
+[2024.10.12-20.44.12:128][ 77]LogActorFactory: Actor Factory spawned Blueprint /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence as actor: BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_UAID_B025AA636E35212502_1121472440
+[2024.10.12-20.44.59:822][806]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-20.44.59:833][806]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-20.44.59:834][806]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-20.45.00:165][806]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 329 ms
+[2024.10.12-20.45.00:168][806]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.10.12-20.45.00:169][806]LogPlayLevel: [PlayLevel] Compiling BP_PCG_Fence before play...
+[2024.10.12-20.45.00:184][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.10.12-20.45.00:187][806]LogPlayLevel: PlayLevel: Blueprint regeneration took 19 ms (1 blueprints)
+[2024.10.12-20.45.00:188][806]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 04:45:00)
+[2024.10.12-20.45.00:193][806]LogOnline: OSS: Created online subsystem instance for: NULL
+[2024.10.12-20.45.00:193][806]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2024.10.12-20.45.00:194][806]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.45.00:454][806]LogPlayLevel: PIE: StaticDuplicateObject took: (0.259719s)
+[2024.10.12-20.45.00:454][806]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.259781s)
+[2024.10.12-20.45.00:461][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.10.12-20.45.00:463][806]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-20.45.00:463][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-20.45.00:464][806]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-20.45.00:464][806]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-20.45.00:464][806]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-20.45.00:464][806]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-20.45.00:466][806]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-20.45.00:495][806]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-20.45.00:495][806]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 2.89 sec)
+[2024.10.12-20.45.00:496][806]LogPlayLevel: PIE: World Init took: (0.033525s)
+[2024.10.12-20.45.00:497][806]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-20.45.00:497][806]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-20.45.00:497][806]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-20.45.00:497][806]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-20.45.00:497][806]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-20.45.00:497][806]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-20.45.00:500][806]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-20.45.00:523][806]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-20.45.00:524][806]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-20.45.00:524][806]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-20.45.00:524][806]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-20.45.00:524][806]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.10.12-20.45.00:524][806]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.10.12-20.45.00:526][806]LogInit: FAudioDevice initialized with ID 2.
+[2024.10.12-20.45.00:526][806]LogAudio: Display: Audio Device (ID: 2) registered with world 'ExampleWorld_01'.
+[2024.10.12-20.45.00:526][806]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.12-20.45.00:527][806]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.10.12-20.45.00:527][806]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.10.12-20.45.00:532][806]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-20.45.00:652][806]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-00.45.00
+[2024.10.12-20.45.00:654][806]LogWorld: Bringing up level for play took: 0.121452
+[2024.10.12-20.45.00:656][806]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2024.10.12-20.45.00:693][806]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.45.00:706][806]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-20.45.00:706][806]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=731661.058 Y=14760.115 Z=259.683,P=-0.000000 Y=-72.778568 R=0.000000
+[2024.10.12-20.45.00:713][806]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2024.10.12-20.45.00:741][806]PIE: Server logged in
+[2024.10.12-20.45.00:742][806]PIE: Play in editor total start time 0,913 seconds.
+[2024.10.12-20.45.16:651][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.45.16:652][572]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.45.16:660][572]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-20.45.16:675][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.45.16:678][572]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-20.45.16:688][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-20.45.16:691][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.45.16:703][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.45.16:712][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.10.12-20.45.16:712][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.12-20.45.16:714][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.10.12-20.45.16:761][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.10.12-20.45.16:826][573]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.10.12-20.45.19:662][697]LogSlate: External Image Picker: DecompressImage failed
+[2024.10.12-20.45.25:529][ 28]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.12-20.45.28:600][208]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-20.45.28:605][208]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-20.45.28:605][208]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-20.45.28:659][208]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 54 ms (total: 383 ms)
+[2024.10.12-20.45.28:660][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-20.45.28:660][208]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 04:45:28)
+[2024.10.12-20.45.28:697][208]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.45.29:047][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.350021s)
+[2024.10.12-20.45.29:047][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.350101s)
+[2024.10.12-20.45.29:055][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.10.12-20.45.29:057][208]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-20.45.29:057][208]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-20.45.29:057][208]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-20.45.29:058][208]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-20.45.29:058][208]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-20.45.29:058][208]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-20.45.29:058][208]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-20.45.29:097][208]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-20.45.29:097][208]LogWorldPartition: Display: WorldPartition initialize took 39 ms (total: 2.93 sec)
+[2024.10.12-20.45.29:097][208]LogPlayLevel: PIE: World Init took: (0.040954s)
+[2024.10.12-20.45.29:098][208]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-20.45.29:098][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-20.45.29:098][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-20.45.29:098][208]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-20.45.29:098][208]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-20.45.29:098][208]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-20.45.29:101][208]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-20.45.29:126][208]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-20.45.29:127][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-20.45.29:127][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-20.45.29:127][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-20.45.29:128][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.10.12-20.45.29:128][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.10.12-20.45.29:130][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.10.12-20.45.29:130][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.10.12-20.45.29:130][208]LogInit: FAudioDevice initialized with ID 3.
+[2024.10.12-20.45.29:130][208]LogAudio: Display: Audio Device (ID: 3) registered with world 'ExampleWorld_01'.
+[2024.10.12-20.45.29:130][208]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.12-20.45.29:133][208]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-20.45.29:341][208]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-00.45.29
+[2024.10.12-20.45.29:342][208]LogWorld: Bringing up level for play took: 0.208377
+[2024.10.12-20.45.29:345][208]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.10.12-20.45.29:352][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.45.29:353][208]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-20.45.29:353][208]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=730990.653 Y=14991.490 Z=308.346,P=-0.000000 Y=-83.995237 R=0.000000
+[2024.10.12-20.45.29:357][208]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2024.10.12-20.45.29:383][208]PIE: Server logged in
+[2024.10.12-20.45.29:384][208]PIE: Play in editor total start time 0,78 seconds.
+[2024.10.12-20.45.29:665][209]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.080145 > MaxSimulationTimeStep (0.050) for 'BP_ExamplePlayer_C_0', movement 'Walking'
+[2024.10.12-20.45.33:978][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.45.33:978][459]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.45.33:979][459]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-20.45.33:994][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.45.33:994][459]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-20.45.33:998][459]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-20.45.34:003][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.45.34:014][459]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.45.34:021][459]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.10.12-20.45.34:021][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.12-20.45.34:024][459]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.10.12-20.45.34:073][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2024.10.12-20.45.34:132][460]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.10.12-20.46.15:978][624]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-20.46.15:984][624]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-20.46.15:984][624]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-20.46.16:025][624]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 40 ms (total: 424 ms)
+[2024.10.12-20.46.16:025][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-20.46.16:025][624]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 04:46:16)
+[2024.10.12-20.46.16:025][624]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.46.16:243][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.218332s)
+[2024.10.12-20.46.16:243][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.218369s)
+[2024.10.12-20.46.16:252][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.12-20.46.16:256][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-20.46.16:256][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-20.46.16:256][624]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-20.46.16:257][624]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-20.46.16:257][624]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-20.46.16:257][624]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-20.46.16:257][624]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-20.46.16:285][624]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-20.46.16:285][624]LogWorldPartition: Display: WorldPartition initialize took 28 ms (total: 2.96 sec)
+[2024.10.12-20.46.16:285][624]LogPlayLevel: PIE: World Init took: (0.029779s)
+[2024.10.12-20.46.16:285][624]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-20.46.16:285][624]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-20.46.16:285][624]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-20.46.16:286][624]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-20.46.16:286][624]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-20.46.16:286][624]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-20.46.16:288][624]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-20.46.16:304][624]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-20.46.16:304][624]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-20.46.16:304][624]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-20.46.16:304][624]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-20.46.16:304][624]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.10.12-20.46.16:304][624]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.10.12-20.46.16:307][624]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.10.12-20.46.16:307][624]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.10.12-20.46.16:307][624]LogInit: FAudioDevice initialized with ID 4.
+[2024.10.12-20.46.16:307][624]LogAudio: Display: Audio Device (ID: 4) registered with world 'ExampleWorld_01'.
+[2024.10.12-20.46.16:307][624]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.12-20.46.16:309][624]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-20.46.16:413][624]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-00.46.16
+[2024.10.12-20.46.16:414][624]LogWorld: Bringing up level for play took: 0.103704
+[2024.10.12-20.46.16:415][624]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2024.10.12-20.46.16:420][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.46.16:421][624]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-20.46.16:421][624]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=728573.571 Y=14418.218 Z=388.820,P=-0.000000 Y=-87.804449 R=0.000000
+[2024.10.12-20.46.16:423][624]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2024.10.12-20.46.16:443][624]PIE: Server logged in
+[2024.10.12-20.46.16:443][624]PIE: Play in editor total start time 0,459 seconds.
+[2024.10.12-20.46.19:148][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.46.19:148][769]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.46.19:149][769]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-20.46.19:165][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.46.19:166][769]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-20.46.19:169][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-20.46.19:174][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.46.19:192][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-20.46.19:194][769]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.10.12-20.46.19:194][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.12-20.46.19:197][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.10.12-20.46.19:201][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.46.19:240][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.10.12-20.46.19:294][770]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.10.12-20.46.38:670][406]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-20.46.38:675][406]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-20.46.38:675][406]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-20.46.38:715][406]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 40 ms (total: 464 ms)
+[2024.10.12-20.46.38:716][406]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-20.46.38:716][406]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 04:46:38)
+[2024.10.12-20.46.38:716][406]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.46.38:931][406]LogPlayLevel: PIE: StaticDuplicateObject took: (0.214914s)
+[2024.10.12-20.46.38:931][406]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.214964s)
+[2024.10.12-20.46.38:936][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.10.12-20.46.38:940][406]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-20.46.38:940][406]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-20.46.38:941][406]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-20.46.38:942][406]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-20.46.38:942][406]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-20.46.38:942][406]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-20.46.38:942][406]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-20.46.38:968][406]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-20.46.38:968][406]LogWorldPartition: Display: WorldPartition initialize took 26 ms (total: 2.98 sec)
+[2024.10.12-20.46.38:968][406]LogPlayLevel: PIE: World Init took: (0.027747s)
+[2024.10.12-20.46.38:968][406]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-20.46.38:968][406]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-20.46.38:968][406]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-20.46.38:969][406]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-20.46.38:969][406]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-20.46.38:969][406]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-20.46.38:970][406]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-20.46.38:986][406]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-20.46.38:987][406]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-20.46.38:987][406]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-20.46.38:987][406]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-20.46.38:987][406]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.10.12-20.46.38:987][406]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.10.12-20.46.38:989][406]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.10.12-20.46.38:989][406]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.10.12-20.46.38:989][406]LogInit: FAudioDevice initialized with ID 5.
+[2024.10.12-20.46.38:989][406]LogAudio: Display: Audio Device (ID: 5) registered with world 'ExampleWorld_01'.
+[2024.10.12-20.46.38:989][406]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.12-20.46.38:991][406]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-20.46.39:095][406]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-00.46.39
+[2024.10.12-20.46.39:095][406]LogWorld: Bringing up level for play took: 0.104498
+[2024.10.12-20.46.39:098][406]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2024.10.12-20.46.39:103][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.46.39:104][406]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-20.46.39:104][406]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=728709.786 Y=13977.202 Z=370.933,P=-0.000000 Y=-80.892527 R=0.000000
+[2024.10.12-20.46.39:107][406]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2024.10.12-20.46.39:127][406]PIE: Server logged in
+[2024.10.12-20.46.39:128][406]PIE: Play in editor total start time 0,453 seconds.
+[2024.10.12-20.46.45:178][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.46.45:178][757]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-20.46.45:179][757]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-20.46.45:192][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.46.45:192][757]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-20.46.45:195][757]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-20.46.45:199][757]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-20.46.45:207][757]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-20.46.45:215][757]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.10.12-20.46.45:215][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.12-20.46.45:217][757]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.10.12-20.46.45:261][757]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.10.12-20.46.45:314][758]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2024.10.12-20.51.08:278][400]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.12-20.51.08:290][400]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/1/4M/CJYEBEILQWWCLMMKIJ3CAG_Auto1
+[2024.10.12-20.51.08:290][400]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/CJYEBEILQWWCLMMKIJ3CAG_Auto198D7659345FF7960E7D43A8786DFD7A0.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/1/4M/CJYEBEILQWWCLMMKIJ3CAG_Auto1.uasset'
+[2024.10.12-20.51.08:294][400]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2_Auto1
+[2024.10.12-20.51.08:294][400]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/69ASQD5Q0IBOIQ4668VUN2_Auto1A9401A2742DFB17AFAAB1682A7A457D1.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2_Auto1.uasset'
+[2024.10.12-20.51.08:297][400]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PostCity/Maps/ExampleWorld_01' took 0.032
+[2024.10.12-20.51.08:297][400]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.032
+[2024.10.12-21.25.03:529][890]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-21.25.03:536][890]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-21.25.03:536][890]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-21.25.03:597][890]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 60 ms (total: 525 ms)
+[2024.10.12-21.25.03:598][890]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-21.25.03:598][890]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 05:25:03)
+[2024.10.12-21.25.03:598][890]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-21.25.03:887][890]LogPlayLevel: PIE: StaticDuplicateObject took: (0.289425s)
+[2024.10.12-21.25.03:887][890]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.289488s)
+[2024.10.12-21.25.03:903][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.10.12-21.25.03:906][890]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-21.25.03:906][890]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-21.25.03:906][890]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-21.25.03:907][890]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-21.25.03:907][890]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-21.25.03:907][890]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-21.25.03:907][890]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-21.25.03:939][890]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-21.25.03:939][890]LogWorldPartition: Display: WorldPartition initialize took 31 ms (total: 3.01 sec)
+[2024.10.12-21.25.03:939][890]LogPlayLevel: PIE: World Init took: (0.033287s)
+[2024.10.12-21.25.03:939][890]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-21.25.03:939][890]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-21.25.03:939][890]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-21.25.03:940][890]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-21.25.03:940][890]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-21.25.03:940][890]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-21.25.03:942][890]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-21.25.03:970][890]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-21.25.03:970][890]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-21.25.03:970][890]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-21.25.03:970][890]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-21.25.03:971][890]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.10.12-21.25.03:971][890]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.10.12-21.25.03:972][890]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.10.12-21.25.03:973][890]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.10.12-21.25.03:973][890]LogInit: FAudioDevice initialized with ID 6.
+[2024.10.12-21.25.03:973][890]LogAudio: Display: Audio Device (ID: 6) registered with world 'ExampleWorld_01'.
+[2024.10.12-21.25.03:973][890]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.12-21.25.03:975][890]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-21.25.04:122][890]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-01.25.04
+[2024.10.12-21.25.04:123][890]LogWorld: Bringing up level for play took: 0.147185
+[2024.10.12-21.25.04:125][890]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2024.10.12-21.25.04:136][890]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.25.04:138][890]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(5), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-21.25.04:138][890]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=728126.271 Y=14428.360 Z=449.640,P=-0.000000 Y=-93.044417 R=0.000000
+[2024.10.12-21.25.04:145][890]LogStreaming: Display: FlushAsyncLoading(): 4 QueuedPackages, 0 AsyncPackages
+[2024.10.12-21.25.04:170][890]PIE: Server logged in
+[2024.10.12-21.25.04:171][890]PIE: Play in editor total start time 0,635 seconds.
+[2024.10.12-21.25.22:258][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.25.22:258][952]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-21.25.22:259][952]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-21.25.22:272][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-21.25.22:272][952]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-21.25.22:279][952]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-21.25.22:286][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-21.25.22:308][952]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-21.25.22:309][952]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.10.12-21.25.22:309][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.12-21.25.22:312][952]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.10.12-21.25.22:318][952]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.25.22:372][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2024.10.12-21.25.22:444][953]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2024.10.12-21.25.32:269][512]LogViewport: Scene viewport resized to 1011x862, mode Windowed.
+[2024.10.12-21.25.32:320][513]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-21.27.54:152][197]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.10.12-21.27.54:160][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2_Auto2
+[2024.10.12-21.27.54:160][197]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/69ASQD5Q0IBOIQ4668VUN2_Auto26F21386D4AC83F1D3DF7B39E05640B5C.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2_Auto2.uasset'
+[2024.10.12-21.27.54:168][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/2/A2/3IPIIUX3PZ5RLFLBIQL75N_Auto2
+[2024.10.12-21.27.54:168][197]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/3IPIIUX3PZ5RLFLBIQL75N_Auto28BA525E74735205A5D384E9C1484B13A.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/2/A2/3IPIIUX3PZ5RLFLBIQL75N_Auto2.uasset'
+[2024.10.12-21.27.54:169][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PostCity/Maps/ExampleWorld_01' took 0.028
+[2024.10.12-21.27.54:169][197]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2024.10.12-21.27.57:582][372]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: ================================================
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Total job queries 619, among them cache hits 139 (22.46%)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Tracking 474 distinct input hashes that result in 429 distinct outputs (90.51%)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: RAM used: 14,13 MiB of 1,60 GiB budget. Usage: 0.86%
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Shaders Compiled: 24
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Jobs assigned 24, completed 24 (100%)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Average time worker was idle: 131.68 s
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 0.67 s
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.76 s
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Job life time (pending + execution): average 0.69 s, max 0.88
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Shader code size: average 35,479 KiB, min 29,656 KiB, max 44,605 KiB
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.47 s
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Jobs were issued in 24 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Average processing rate: 9.73 jobs/sec
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Total thread time: 5,976 s
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Total thread preprocess time: 0,646 s
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Percentage time preprocessing: 10.80%
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Effective parallelization: 2.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    4 times, average 0.30 sec, max 0.33 sec, min 0.26 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.29 sec, max 0.33 sec, min 0.25 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    4 times, average 0.29 sec, max 0.32 sec, min 0.25 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.23 sec, max 0.31 sec, min 0.15 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.99% of total time (compiled    4 times, average 0.30 sec, max 0.33 sec, min 0.26 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.10% of total time (compiled    4 times, average 0.29 sec, max 0.32 sec, min 0.25 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 9.82% of total time (compiled    2 times, average 0.29 sec, max 0.33 sec, min 0.25 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 8.08% of total time (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.66% of total time (compiled    2 times, average 0.23 sec, max 0.31 sec, min 0.15 sec)
+[2024.10.12-21.27.59:014][447]LogShaderCompilers: Display: ================================================
+[2024.10.12-21.28.06:462][858]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.28.13:448][270]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.32.49:310][166]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.10.12-21.33.44:714][284]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.44:714][284]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.44:983][289]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.44:983][289]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.45:219][293]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.45:219][293]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.45:392][297]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.45:392][297]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.45:596][303]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.45:596][303]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.45:784][308]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.45:784][308]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.45:983][314]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.45:983][314]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.46:168][319]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.46:168][319]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.46:353][325]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.46:353][325]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.46:534][330]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.46:534][330]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.46:712][336]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.46:712][336]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.46:927][344]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.46:928][344]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.47:135][351]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.47:135][351]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.47:316][357]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.47:316][357]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.47:518][364]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.47:519][364]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.47:698][370]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.47:698][370]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.47:896][377]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.47:896][377]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.48:066][382]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.48:066][382]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.48:259][387]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.48:259][387]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.48:453][392]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.48:453][392]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:023][393]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:023][393]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:030][393]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:030][393]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:175][394]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:176][394]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:296][395]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:296][395]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:442][398]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:442][398]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:653][405]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:653][405]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.49:853][412]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.49:853][412]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.50:034][418]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.50:034][418]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.50:246][425]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.50:246][425]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.50:804][453]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.50:804][453]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.51:184][471]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.51:184][471]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.51:921][510]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.51:921][510]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.52:324][529]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.52:324][529]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.52:720][546]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.52:720][546]LogEditorTransaction: Undo Foliage Editing
+[2024.10.12-21.33.53:169][556]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.53:169][556]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.10.12-21.33.53:190][556]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:191][556]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:399][559]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.53:399][559]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.10.12-21.33.53:427][559]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:428][559]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:699][565]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.53:699][565]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.10.12-21.33.53:706][565]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:713][565]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:937][571]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.53:937][571]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.10.12-21.33.53:948][571]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_2_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.53:948][571]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0.Weightmap_0 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.33.54:222][580]Cmd: TRANSACTION UNDO
+[2024.10.12-21.33.54:223][580]LogEditorTransaction: Undo Landscape Editing: Paint
+[2024.10.12-21.35.24:097][867]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-21.35.24:108][867]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-21.35.24:108][867]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-21.35.24:160][867]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 51 ms (total: 577 ms)
+[2024.10.12-21.35.24:161][867]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-21.35.24:161][867]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 05:35:24)
+[2024.10.12-21.35.24:162][867]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-21.35.24:428][867]LogPlayLevel: PIE: StaticDuplicateObject took: (0.266771s)
+[2024.10.12-21.35.24:428][867]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.266845s)
+[2024.10.12-21.35.24:465][867]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.10.12-21.35.24:468][867]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-21.35.24:469][867]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-21.35.24:469][867]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-21.35.24:470][867]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-21.35.24:470][867]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-21.35.24:470][867]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-21.35.24:470][867]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-21.35.24:500][867]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-21.35.24:500][867]LogWorldPartition: Display: WorldPartition initialize took 30 ms (total: 3.05 sec)
+[2024.10.12-21.35.24:500][867]LogPlayLevel: PIE: World Init took: (0.032365s)
+[2024.10.12-21.35.24:500][867]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-21.35.24:500][867]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-21.35.24:500][867]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-21.35.24:501][867]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-21.35.24:501][867]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-21.35.24:501][867]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-21.35.24:503][867]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-21.35.24:527][867]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-21.35.24:528][867]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-21.35.24:528][867]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-21.35.24:528][867]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-21.35.24:528][867]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.10.12-21.35.24:528][867]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.10.12-21.35.24:530][867]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.10.12-21.35.24:530][867]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.10.12-21.35.24:530][867]LogInit: FAudioDevice initialized with ID 7.
+[2024.10.12-21.35.24:530][867]LogAudio: Display: Audio Device (ID: 7) registered with world 'ExampleWorld_01'.
+[2024.10.12-21.35.24:531][867]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.12-21.35.24:534][867]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-21.35.24:665][867]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-01.35.24
+[2024.10.12-21.35.24:665][867]LogWorld: Bringing up level for play took: 0.130846
+[2024.10.12-21.35.24:668][867]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.10.12-21.35.24:674][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.35.24:675][867]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-21.35.24:675][867]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=725764.433 Y=15138.696 Z=875.889,P=-0.000000 Y=-167.285466 R=0.000000
+[2024.10.12-21.35.24:682][867]LogStreaming: Display: FlushAsyncLoading(): 2 QueuedPackages, 0 AsyncPackages
+[2024.10.12-21.35.24:700][867]PIE: Server logged in
+[2024.10.12-21.35.24:702][867]PIE: Play in editor total start time 0,594 seconds.
+[2024.10.12-21.35.45:738][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.35.45:738][ 27]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-21.35.45:740][ 27]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-21.35.45:758][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-21.35.45:759][ 27]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-21.35.45:762][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-21.35.45:767][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-21.35.45:790][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-21.35.45:791][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.10.12-21.35.45:791][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.12-21.35.45:793][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.10.12-21.35.45:796][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.35.45:855][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.10.12-21.35.45:959][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.10.12-21.38.08:584][711]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.12-21.38.08:590][711]LogContentBundle: [ExampleWorld_01(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.10.12-21.38.08:590][711]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' started...
+[2024.10.12-21.38.08:634][711]LogWorldPartition: Display: GenerateStreaming for 'ExampleWorld_01' took 43 ms (total: 621 ms)
+[2024.10.12-21.38.08:635][711]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.12-21.38.08:635][711]PIE: New page: PIE session: ExampleWorld_01 (13 Eki 2024 05:38:08)
+[2024.10.12-21.38.08:635][711]LogPlayLevel: Creating play world package: /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-21.38.08:882][711]LogPlayLevel: PIE: StaticDuplicateObject took: (0.246866s)
+[2024.10.12-21.38.08:882][711]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01 to /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 (0.246900s)
+[2024.10.12-21.38.08:893][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.10.12-21.38.08:895][711]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.12-21.38.08:895][711]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.12-21.38.08:896][711]LogAIModule: Creating AISystem for world ExampleWorld_01
+[2024.10.12-21.38.08:897][711]LogWorldPartition: ULevel::OnLevelLoaded(ExampleWorld_01)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.10.12-21.38.08:897][711]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.10.12-21.38.08:897][711]LogWorldPartition: UWorldPartition::Initialize : World = ExampleWorld_01, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.10.12-21.38.08:897][711]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.10.12-21.38.08:924][711]LogContentBundle: [ExampleWorld_01(Standalone)] Creating new contrainer.
+[2024.10.12-21.38.08:924][711]LogWorldPartition: Display: WorldPartition initialize took 27 ms (total: 3.07 sec)
+[2024.10.12-21.38.08:925][711]LogPlayLevel: PIE: World Init took: (0.029531s)
+[2024.10.12-21.38.08:925][711]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.12-21.38.08:925][711]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.10.12-21.38.08:925][711]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.12-21.38.08:926][711]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.12-21.38.08:926][711]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.12-21.38.08:926][711]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.12-21.38.08:928][711]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.12-21.38.08:945][711]LogAudioMixer: Display: Using Audio Hardware Device Kulaklıklar (Realtek(R) Audio)
+[2024.10.12-21.38.08:945][711]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.12-21.38.08:945][711]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.12-21.38.08:945][711]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.12-21.38.08:945][711]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.10.12-21.38.08:945][711]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.10.12-21.38.08:947][711]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.10.12-21.38.08:947][711]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.10.12-21.38.08:947][711]LogInit: FAudioDevice initialized with ID 8.
+[2024.10.12-21.38.08:947][711]LogAudio: Display: Audio Device (ID: 8) registered with world 'ExampleWorld_01'.
+[2024.10.12-21.38.08:948][711]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.12-21.38.08:951][711]LogLoad: Game class is 'BP_ExamplePlayerMode_C'
+[2024.10.12-21.38.09:060][711]LogWorld: Bringing World /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01.ExampleWorld_01 up for play (max tick rate 60) at 2024.10.13-01.38.09
+[2024.10.12-21.38.09:060][711]LogWorld: Bringing up level for play took: 0.108870
+[2024.10.12-21.38.09:062][711]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.10.12-21.38.09:067][711]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.38.09:068][711]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(6), CellsToLoad(0), CellsToUnload(0)
+[2024.10.12-21.38.09:068][711]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=728027.707 Y=15577.288 Z=474.957,P=-0.000000 Y=-165.285462 R=0.000000
+[2024.10.12-21.38.09:073][711]LogStreaming: Display: FlushAsyncLoading(): 2 QueuedPackages, 0 AsyncPackages
+[2024.10.12-21.38.09:085][711]PIE: Server logged in
+[2024.10.12-21.38.09:087][711]PIE: Play in editor total start time 0,497 seconds.
+[2024.10.12-21.38.50:597][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.38.50:597][185]LogWorld: BeginTearingDown for /Game/PostCity/Maps/UEDPIE_0_ExampleWorld_01
+[2024.10.12-21.38.50:599][185]LogWorld: UWorld::CleanupWorld for ExampleWorld_01, bSessionEnded=true, bCleanupResources=true
+[2024.10.12-21.38.50:613][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-21.38.50:614][185]LogContentBundle: [ExampleWorld_01(Standalone)] Deleting container.
+[2024.10.12-21.38.50:617][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.12-21.38.50:621][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.12-21.38.50:632][185]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.12-21.38.50:636][185]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.10.12-21.38.50:636][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.12-21.38.50:639][185]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.10.12-21.38.50:642][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.12-21.38.50:686][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.10.12-21.38.50:773][186]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.10.12-21.39.32:868][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2024.10.12-21.39.32:882][228]LogTexture: Display: Building textures: /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.10.12-21.39.32:894][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/H6/QHYH4CXE2FH07Y9NYFDMCP_Auto3
+[2024.10.12-21.39.32:894][228]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/QHYH4CXE2FH07Y9NYFDMCP_Auto3FD8613824479006490D1E991CB5ECDC8.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/H6/QHYH4CXE2FH07Y9NYFDMCP_Auto3.uasset'
+[2024.10.12-21.39.32:916][228]LogTexture: Display: Waiting for textures to be ready 0/1 (/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/E/49/3LF5R9P1OG1NXO21TLE0RM) ...
+[2024.10.12-21.39.32:931][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/E/49/3LF5R9P1OG1NXO21TLE0RM_Auto3
+[2024.10.12-21.39.32:931][228]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/3LF5R9P1OG1NXO21TLE0RM_Auto390CDBEE247A73514F084AAB8365B2D09.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/E/49/3LF5R9P1OG1NXO21TLE0RM_Auto3.uasset'
+[2024.10.12-21.39.32:937][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/1/4M/CJYEBEILQWWCLMMKIJ3CAG_Auto3
+[2024.10.12-21.39.32:937][228]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/CJYEBEILQWWCLMMKIJ3CAG_Auto3CBA809794395F3C3A17AFDBC2DB5DC27.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/1/4M/CJYEBEILQWWCLMMKIJ3CAG_Auto3.uasset'
+[2024.10.12-21.39.32:942][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2_Auto3
+[2024.10.12-21.39.32:942][228]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/69ASQD5Q0IBOIQ4668VUN2_Auto33260B48D4D0E12B9B1199C9502E88BD0.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2_Auto3.uasset'
+[2024.10.12-21.39.32:949][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/2/A2/3IPIIUX3PZ5RLFLBIQL75N_Auto3
+[2024.10.12-21.39.32:949][228]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/3IPIIUX3PZ5RLFLBIQL75N_Auto39536D16B439E869AEB5225BD41F666D1.tmp' to '../../../../../../UntitleProjects/Landscape/Saved/Autosaves/Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/2/A2/3IPIIUX3PZ5RLFLBIQL75N_Auto3.uasset'
+[2024.10.12-21.39.32:955][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PostCity/Maps/ExampleWorld_01' took 0.100
+[2024.10.12-21.39.32:955][228]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: ================================================
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Total job queries 641, among them cache hits 143 (22.31%)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Tracking 491 distinct input hashes that result in 438 distinct outputs (89.21%)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: RAM used: 14,54 MiB of 1,60 GiB budget. Usage: 0.89%
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Shaders Compiled: 31
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Jobs assigned 32, completed 31 (96.88%)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Average time worker was idle: 886.86 s
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Time job spent in pending queue: average 0.14 s, longest 0.67 s
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Job execution time: average 0.48 s, max 0.76 s
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 0.88
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Shader code size: average 37,58 KiB, min 29,656 KiB, max 68,648 KiB
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.24 s
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Jobs were issued in 32 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Average processing rate: 9.58 jobs/sec
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Total thread time: 7,345 s
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Total thread preprocess time: 0,802 s
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Percentage time preprocessing: 10.91%
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Effective parallelization: 2.27 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    5 times, average 0.30 sec, max 0.33 sec, min 0.26 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.29 sec, max 0.33 sec, min 0.25 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    5 times, average 0.27 sec, max 0.32 sec, min 0.21 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.23 sec, max 0.31 sec, min 0.15 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.09% of total time (compiled    5 times, average 0.30 sec, max 0.33 sec, min 0.26 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.34% of total time (compiled    5 times, average 0.27 sec, max 0.32 sec, min 0.21 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.83% of total time (compiled    3 times, average 0.22 sec, max 0.25 sec, min 0.19 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 7.99% of total time (compiled    2 times, average 0.29 sec, max 0.33 sec, min 0.25 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> - 6.58% of total time (compiled    2 times, average 0.24 sec, max 0.26 sec, min 0.22 sec)
+[2024.10.12-21.40.37:754][975]LogShaderCompilers: Display: ================================================
+[2024.10.12-21.41.03:987][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.10.12-21.41.06:056][587]LogSlate: Window 'Save Content' being destroyed
+[2024.10.12-21.41.06:292][587]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.12-21.41.06:324][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2
+[2024.10.12-21.41.06:324][587]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/69ASQD5Q0IBOIQ4668VUN2FD4192EE437A6C7C4E129A81E83D8BE8.tmp' to '../../../../../../UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/MZ/69ASQD5Q0IBOIQ4668VUN2.uasset'
+[2024.10.12-21.41.06:326][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/2/A2/3IPIIUX3PZ5RLFLBIQL75N
+[2024.10.12-21.41.06:326][587]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/3IPIIUX3PZ5RLFLBIQL75N991F8B42477478DEAC05AEB84E465050.tmp' to '../../../../../../UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/2/A2/3IPIIUX3PZ5RLFLBIQL75N.uasset'
+[2024.10.12-21.41.06:334][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/H6/QHYH4CXE2FH07Y9NYFDMCP
+[2024.10.12-21.41.06:334][587]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/QHYH4CXE2FH07Y9NYFDMCP0DA728124F5198BF92BAE1A80CFD287A.tmp' to '../../../../../../UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/H6/QHYH4CXE2FH07Y9NYFDMCP.uasset'
+[2024.10.12-21.41.06:342][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/E/49/3LF5R9P1OG1NXO21TLE0RM
+[2024.10.12-21.41.06:343][587]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/3LF5R9P1OG1NXO21TLE0RM179E0DF44E73AC60D8C1E691E3BD9ADF.tmp' to '../../../../../../UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/E/49/3LF5R9P1OG1NXO21TLE0RM.uasset'
+[2024.10.12-21.41.06:344][587]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/PostCity/Maps/ExampleWorld_01/1/4M/CJYEBEILQWWCLMMKIJ3CAG
+[2024.10.12-21.41.06:344][587]LogSavePackage: Moving '../../../../../../UntitleProjects/Landscape/Saved/CJYEBEILQWWCLMMKIJ3CAG31C25C8C4BEC5CD5F2330486DDB88F77.tmp' to '../../../../../../UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/1/4M/CJYEBEILQWWCLMMKIJ3CAG.uasset'
+[2024.10.12-21.41.06:552][587]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 1.03 sec)
+[2024.10.12-21.41.06:556][587]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.12-21.41.06:556][587]LogContentValidation: Display: Validating /Game/IlkininBlueprintleri/Landscape/PCG_Spline_Fence_Placement/Blueprint/Actors/BP_PCG_Fence.BP_PCG_Fence_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_PCG_Fence_C_UAID_B025AA636E35212502_1121472440
+[2024.10.12-21.41.06:556][587]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.InstancedFoliageActor_25600_28_0_0
+[2024.10.12-21.41.06:556][587]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_1_2_0
+[2024.10.12-21.41.06:556][587]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.LandscapeStreamingProxy_519M3ZBQCHEZ9F533QJTR4AVU_126_2_2_0
+[2024.10.12-21.41.06:556][587]LogContentValidation: Display: Validating /Script/PCG.PCGWorldActor /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.PCGWorldActor_UAID_B025AA636E35202502_2126773263
+[2024.10.12-21.41.26:744][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.10.12-21.41.26:748][110]LogStall: Shutdown...
+[2024.10.12-21.41.26:752][110]LogStall: Shutdown complete.
+[2024.10.12-21.41.26:777][110]LogSlate: Window 'Landscape - Unreal Editor' being destroyed
