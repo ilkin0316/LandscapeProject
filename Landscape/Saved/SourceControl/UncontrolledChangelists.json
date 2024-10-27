@@ -5,7 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/UntitleProjects/Landscape/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+				"C:/UntitleProjects/Landscape/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/I7/S5ZCUG96I2WC406LB5H6N0.uasset",
+				"C:/UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/A/G3/PSTT5TXIXNM8MWUM7F1QX0.uasset",
+				"C:/UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/H6/QHYH4CXE2FH07Y9NYFDMCP.uasset",
+				"C:/UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/4/LC/GR1JPPDV64AEZZ5I4FCTX0.uasset",
+				"C:/UntitleProjects/Landscape/Content/__ExternalActors__/PostCity/Maps/ExampleWorld_01/3/AS/UL2748BVV2Q7FP5QAVOHKG.uasset",
+				"C:/UntitleProjects/Landscape/Content/PostCity/Maps/_GENERATED/bilis/Cylinder_EAD943CE.uasset"
 			]
 		}
 	]
