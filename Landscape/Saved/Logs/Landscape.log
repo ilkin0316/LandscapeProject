@@ -6347,3 +6347,5 @@ LogInit: Object subsystem initialized
 [2024.10.27-00.05.25:702][712]LogScript: Warning: Script Msg called by: BP_WirePoles_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_WirePoles_C_UAID_B025AA636E358E2602_1123124770
 [2024.10.27-00.05.25:702][712]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'HISMMeshes' of length 1 in '/Game/PostCity/Blueprints/Environment/Splines/Parent/BP_P_Spline.BP_P_Spline_C'!
 [2024.10.27-00.05.25:702][712]LogScript: Warning: Script Msg called by: BP_WirePoles_C /Game/PostCity/Maps/ExampleWorld_01.ExampleWorld_01:PersistentLevel.BP_WirePoles_C_UAID_B025AA636E358E2602_1123124770
+[2024.10.27-00.06.01:780][199]LogViewport: Scene viewport resized to 984x862, mode Windowed.
+[2024.10.27-00.06.05:234][395]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
